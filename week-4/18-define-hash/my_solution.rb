@@ -1,4 +1,4 @@
-# U1.W3: Define a Hash
+# Define a Hash
 
 # I worked on this challenge [by myself, with: ].
 

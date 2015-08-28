@@ -1,4 +1,4 @@
-# U1.W3: Count Between
+# Count Between
 
 # I worked on this challenge [by myself, with: ].
 

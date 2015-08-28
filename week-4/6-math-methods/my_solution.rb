@@ -1,4 +1,4 @@
-# U1.W3: Math Methods
+# Math Methods
 
 # I worked on this challenge [by myself, with: ].
 

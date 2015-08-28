@@ -1,4 +1,4 @@
-# U1.W3: Concatenate Two Arrays
+# Concatenate Two Arrays
 
 # I worked on this challenge [by myself, with: ].
 

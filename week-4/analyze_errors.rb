@@ -1,4 +1,4 @@
-# U1.W3: Analyze the Errors
+# Analyze the Errors
 
 # I worked on this challenge [by myself, with: ].
 # I spent [#] hours on this challenge.

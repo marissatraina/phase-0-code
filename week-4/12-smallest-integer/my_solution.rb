@@ -1,4 +1,4 @@
-# U1.W3: Smallest Integer
+# Smallest Integer
 
 # I worked on this challenge [by myself, with: ].
 

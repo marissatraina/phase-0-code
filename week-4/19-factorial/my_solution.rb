@@ -1,4 +1,4 @@
-# U1.W3: Factorial
+# Factorial
 
 # I worked on this challenge [by myself, with: ].
 

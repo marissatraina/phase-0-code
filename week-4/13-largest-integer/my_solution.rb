@@ -1,4 +1,4 @@
-# U1.W3: Largest Integer
+# Largest Integer
 
 # I worked on this challenge [by myself, with: ].
 

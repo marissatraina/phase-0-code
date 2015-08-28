@@ -1,4 +1,4 @@
-# U1.W3: Leap Years
+# Leap Years
 
 # I worked on this challenge [by myself, with: ].
 

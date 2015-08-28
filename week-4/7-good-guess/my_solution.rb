@@ -1,4 +1,4 @@
-# U1.W3: Good Guess
+# Good Guess
 
 # I worked on this challenge [by myself, with: ].
 

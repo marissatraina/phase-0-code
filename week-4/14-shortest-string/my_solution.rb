@@ -1,4 +1,4 @@
-# U1.W3: Shortest String
+# Shortest String
 
 # I worked on this challenge [by myself, with: ].
 

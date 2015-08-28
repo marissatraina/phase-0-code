@@ -1,4 +1,4 @@
-# U1.W3: Simple Substrings
+# Simple Substrings
 
 # I worked on this challenge [by myself, with: ].
 
