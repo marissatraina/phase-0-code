@@ -1,4 +1,4 @@
-# U2.W5: Build a simple guessing game
+# Build a simple guessing game
 
 
 # I worked on this challenge [by myself, with: ].

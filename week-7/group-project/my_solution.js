@@ -1,4 +1,4 @@
- // U3.W7: JavaScript Telephone
+ // JavaScript Telephone
 
 // My role in the group is:
 

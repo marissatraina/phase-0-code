@@ -1,5 +1,5 @@
 /*
-U3.W8: Gradebook from Names and Scores
+Gradebook from Names and Scores
 
 I worked on this challenge [by myself, with:]
 This challenge took me [#] hours.

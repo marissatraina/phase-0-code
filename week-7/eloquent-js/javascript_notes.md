@@ -1,4 +1,4 @@
-U3.W7: Eloquent JavaScript
+Eloquent JavaScript
 
 I worked on this challenge [by myself, with:]
 

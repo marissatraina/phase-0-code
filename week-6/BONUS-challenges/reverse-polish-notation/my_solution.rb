@@ -1,4 +1,4 @@
-# U2.W5: Implement a Reverse Polish Notation Calculator
+# Implement a Reverse Polish Notation Calculator
 
 
 # I worked on this challenge [by myself, with: ].
@@ -32,4 +32,4 @@ end
 
 
 
-# 5. Reflection 
+# 5. Reflection

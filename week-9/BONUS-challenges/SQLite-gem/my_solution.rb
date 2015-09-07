@@ -1,4 +1,4 @@
-# U3.W7: BONUS Using the SQLite Gem
+# BONUS Using the SQLite Gem
 
 # I worked on this challenge [by myself, with:]
 

@@ -1,4 +1,4 @@
-# U3.W8: Introduction to Databases
+# Introduction to Databases
 
 #### I worked on this challenge [by myself, with: ]
 #### This challenge took me [#] hours.

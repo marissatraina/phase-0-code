@@ -1,4 +1,4 @@
-#U2.W5: Attr Methods
+#Attr Methods
 
 # I worked on this challenge [by myself, with:]
 

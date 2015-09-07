@@ -1,4 +1,4 @@
-# U2.W4: Die Class 1: Numeric
+# Die Class 1: Numeric
 
 # I worked on this challenge [by myself, with: ]
 

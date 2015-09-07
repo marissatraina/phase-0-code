@@ -1,4 +1,4 @@
- // U3.W7: JavaScript Olympics
+ // JavaScript Olympics
 
 // I paired [by myself, with:] on this challenge.
 

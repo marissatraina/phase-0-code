@@ -1,4 +1,4 @@
-# U2.W4: Calculate the Median!
+# Calculate the Median!
 
 # Complete each step below according to the challenge directions and
 # include it in this file. Also make sure everything that isn't code

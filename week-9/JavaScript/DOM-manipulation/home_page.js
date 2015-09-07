@@ -1,4 +1,4 @@
-// U3.W9: DOM Manipulation Challenge
+// DOM Manipulation Challenge
 
 
 // I worked on this challenge [by myself, with: ].

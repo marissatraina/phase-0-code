@@ -1,4 +1,4 @@
-// U3.W7: Eloquent JavaScript
+// Eloquent JavaScript
 
 // Run this file in your terminal using `node my_solution.js`. Make sure it works before moving on!
 

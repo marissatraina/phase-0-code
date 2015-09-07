@@ -1,4 +1,4 @@
-// U3.W7: Separate Numbers with Commas in JavaScript **Pairing Challenge**
+// Separate Numbers with Commas in JavaScript **Pairing Challenge**
 
 
 // I worked on this challenge with: .

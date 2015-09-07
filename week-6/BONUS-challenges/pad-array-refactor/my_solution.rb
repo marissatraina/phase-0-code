@@ -1,4 +1,4 @@
-# U2.W5: Review and Refactor: Pad an Array
+# Review and Refactor: Pad an Array
 
 # I worked on this challenge [by myself, with: ].
 

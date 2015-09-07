@@ -1,4 +1,4 @@
-# U2.W4: Numbers to Commas Solo Challenge
+# Numbers to Commas Solo Challenge
 
 # I spent [] hours on this challenge.
 

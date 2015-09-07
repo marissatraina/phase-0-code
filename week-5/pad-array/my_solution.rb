@@ -1,4 +1,4 @@
-# U2.W4: Pad an Array
+# Pad an Array
 
 # I worked on this challenge [by myself, with: ]
 

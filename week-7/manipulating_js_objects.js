@@ -1,4 +1,4 @@
- // U3.W7: Manipulating JavaScript Objects
+ // Manipulating JavaScript Objects
 
 // I worked on this challenge: [by myself, with: ]
 

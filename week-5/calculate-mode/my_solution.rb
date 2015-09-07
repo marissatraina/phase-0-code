@@ -1,4 +1,4 @@
-# U2.W4: Calculate the mode Pairing Challenge
+# Calculate the mode Pairing Challenge
 
 # I worked on this challenge [by myself, with: ]
 

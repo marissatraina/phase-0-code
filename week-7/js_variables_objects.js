@@ -1,4 +1,4 @@
- // U3.W7: JavaScript Variables and Objects
+ // JavaScript Variables and Objects
 
 // I paired [by myself, with:] on this challenge.
 

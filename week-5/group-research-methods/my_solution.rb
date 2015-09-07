@@ -1,4 +1,4 @@
-# U2.W4: Research Methods
+# Research Methods
 
 # I spent [] hours on this challenge.
 

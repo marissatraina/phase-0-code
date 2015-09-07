@@ -1,4 +1,4 @@
-# U2.W5: Class Warfare, Validate a Credit Card Number
+# Class Warfare, Validate a Credit Card Number
 
 
 # I worked on this challenge [by myself, with: ].
