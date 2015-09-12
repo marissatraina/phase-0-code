@@ -1,12 +1,7 @@
-# Release 4:
-
-# refactor this code to move method assignments to attr_ attributes. Like we did with age. Let's pare down the superfluous code.
-
-# Your Code Here:
+# Release 3:
 
 class Profile
-# first let's finish refactoring this code
-# note that there is a way to add all of the variables like :age on one line, how would we do that?
+# here is the change, we combined the attr_writer and attr_reader into one declaration: attr_accessor
   attr_accessor :age
 
   def initialize
@@ -24,6 +19,16 @@ class Profile
     puts "occupation: #{@occupation}"
     puts
   end
+
+  # This code is no longer needed.
+  # def what_is_age
+  #   @age
+  # end
+
+  # This code is no longer needed
+  # def change_my_age=(new_age)
+  #   @age = new_age
+  # end
 
   def what_is_name
     @name
@@ -43,3 +48,32 @@ class Profile
 
 
 end
+
+instance_of_profile = Profile.new
+puts "--- printing age -----"
+sleep 0.8
+p instance_of_profile.age
+
+puts "--- printing name ----"
+sleep 0.8
+p instance_of_profile.what_is_name
+
+puts "--- printing occupation ----"
+sleep 0.8
+p instance_of_profile.what_is_occupation
+
+puts "--- changing profile information ----"
+10.times do
+  print "."
+  sleep 0.1
+end
+
+instance_of_profile.age = 28
+instance_of_profile.change_my_name = "Taylor"
+instance_of_profile.change_my_occupation = "Rare Coins Trader"
+
+
+puts
+puts "---- printing all profile info -----"
+sleep 0.8
+instance_of_profile.print_info
