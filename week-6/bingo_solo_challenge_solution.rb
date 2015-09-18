@@ -21,7 +21,7 @@
 # Display the board to the console (prettily)
   #fill in the outline here
 
-# Release 1: Initial Solution
+# Initial Solution
 
 class BingoBoard
 
@@ -32,11 +32,11 @@ class BingoBoard
 
 end
 
-# Release 3: Refactored Solution
+# Refactored Solution
 
 
 
-# Release 2: DRIVER TESTS GO BELOW THIS LINE
+#DRIVER CODE (I.E. METHOD CALLS) GO BELOW THIS LINE
 board = [[47, 44, 71, 8, 88],
         [22, 69, 75, 65, 73],
         [83, 85, 97, 89, 57],
@@ -46,6 +46,6 @@ board = [[47, 44, 71, 8, 88],
 new_game = BingoBoard.new(board)
 
 
-# Release 4: Reflection
+#Reflection
 
 
