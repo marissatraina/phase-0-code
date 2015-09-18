@@ -4,7 +4,7 @@
 
 
 
-# 1. First Person's solution I liked
+# First Person's solution I liked
 #    What I learned from this solution
 # Copy solution here:
 
@@ -12,18 +12,18 @@
 
 
 
-# 2. Second Person's solution I liked
+# Second Person's solution I liked
 #    What I learned from this solution
 # Copy solution here:
 
 
 
 
-# 3. My original solution:
+# My original solution:
 
 
 
-# 4. My refactored solution:
+# My refactored solution:
 
 
 
