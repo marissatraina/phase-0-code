@@ -1,6 +1,4 @@
-
-# RELEASE 1
-
+# RELEASE 2: NESTED STRUCTURE GOLF
 # Hole 1
 # Target element: "FORE"
 
@@ -38,7 +36,7 @@ nested_data = {array: ["array", {hash: "finished"}]}
 
 # ============================================================
 
-# RELEASE 2
+# RELEASE 3: ITERATE OVER NESTED STRUCTURES
 
 number_array = [5, [10, 15], [20,25,30], 35]
 
