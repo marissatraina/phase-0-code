@@ -3,14 +3,14 @@
 
 # I worked on this challenge [by myself, with: ].
 
-# 2. Pseudocode
+# Pseudocode
 
 # Input:
 # Output:
 # Steps:
 
 
-# 3. Initial Solution
+# Initial Solution
 
 class RPNCalculator
   # Define your methods, here!
@@ -25,11 +25,4 @@ end
 
 
 
-# 1. DRIVER TESTS GO BELOW THIS LINE
-
-
-
-
-
-
-# 5. Reflection
+# Reflection
