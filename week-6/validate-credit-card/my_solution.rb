@@ -4,14 +4,14 @@
 # I worked on this challenge [by myself, with: ].
 # I spent [#] hours on this challenge.
 
-# 2. Pseudocode
+# Pseudocode
 
 # Input:
 # Output:
 # Steps:
 
 
-# 3. Initial Solution
+# Initial Solution
 
 # Don't forget to check on initialization for a card length
 # of exactly 16 digits
@@ -22,18 +22,13 @@ end
 
 
 
-# 4. Refactored Solution
+# Refactored Solution
 
 
 
 
 
 
-# 1. DRIVER TESTS GO BELOW THIS LINE
 
 
-
-
-
-
-# 5. Reflection
+# Reflection
