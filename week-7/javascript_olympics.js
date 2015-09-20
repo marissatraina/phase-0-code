@@ -5,29 +5,29 @@
 // This challenge took me [#] hours.
 
 
-// 0. Warm Up
+// Warm Up
 
 
 
 
-// 1. Bulk Up
+// Bulk Up
 
 
 
 
-// 2. Jumble your words
+// Jumble your words
 
 
 
 
-// 3. 2,4,6,8
+// 2,4,6,8
 
 
 
 
-// 4. "We built this city"
+// "We built this city"
 
 
 
 
-// 5. Reflection
+// Reflection

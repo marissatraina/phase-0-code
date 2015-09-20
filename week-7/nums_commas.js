@@ -3,23 +3,23 @@
 
 // I worked on this challenge with: .
 
-// 0. Pseudocode
+// Pseudocode
 
 
 
-// 1. Initial Solution
-
-
-
-
-// 3. Refactored Solution
+// Initial Solution
 
 
 
 
-// 2. Your Own Tests (OPTIONAL)
+// Refactored Solution
 
 
 
 
-// 4. Reflection
+// Your Own Tests (OPTIONAL)
+
+
+
+
+// Reflection
