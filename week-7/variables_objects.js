@@ -13,16 +13,7 @@
 
 
 // __________________________________________
-// Reflection: Use the reflection guidelines to write a reflection here.
-//
-//
-//
-//
-//
-//
 
-
-// __________________________________________
 // Test Code:  Do not alter code below this line.
 
 function assert(test, message, test_number) {
