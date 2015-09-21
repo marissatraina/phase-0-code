@@ -1,4 +1,4 @@
-# U3.W8-9: OO Basics: Student
+# OO Basics: Student
 
 
 # I worked on this challenge [by myself, with: ].
@@ -28,7 +28,7 @@ end
 
 
 # DRIVER TESTS GO BELOW THIS LINE
-# Tests for release 0:
+# Initial Tests:
 
 p students[0].first_name == "Alex"
 p students[0].scores.length == 5
@@ -36,12 +36,12 @@ p students[0].scores[0] == students[0].scores[4]
 p students[0].scores[3] == 0
 
 
-# Tests for release 1:
+# Additional Tests 1:
 
 p students[0].average == 80
 p students[0].letter_grade == 'B'
 
-# Tests for release 2:
+# Additional Tests 2:
 
 p linear_search(students, "Alex") == 0
 p linear_search(students, "NOT A STUDENT") == -1
