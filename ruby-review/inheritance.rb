@@ -1,4 +1,4 @@
-# U2.W6: Introduction to Inheritance
+# Introduction to Inheritance
 
 # I worked on this challenge [by myself, with: ].
 

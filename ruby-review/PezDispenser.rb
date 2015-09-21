@@ -1,4 +1,4 @@
-# U2.W6: PezDispenser Class from User Stories
+# PezDispenser Class from User Stories
 
 # I worked on this challenge [by myself, with: ].
 # I spent [#] hours on this challenge.
@@ -44,7 +44,7 @@ puts "A new pez dispenser has been created. You have #{super_mario.pez_count} pe
 puts "Here's a look inside the dispenser:"
 puts super_mario.see_all_pez
 puts "Adding a banana pez."
-super_mario.add_pez("banana") 
+super_mario.add_pez("banana")
 puts "Now you have #{super_mario.pez_count} pez!"
 puts "Oh, you want one do you?"
 puts "The pez flavor you got is: #{super_mario.get_pez}"

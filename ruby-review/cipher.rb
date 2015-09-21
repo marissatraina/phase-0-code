@@ -1,4 +1,4 @@
-# U2.W6: Cipher Challenge
+# Cipher Challenge
 
 # I worked on this challenge [by myself, with:]
 # I spent [#] hours on this challenge.

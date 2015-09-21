@@ -1,4 +1,4 @@
-# U2.W6: Create a Car Class from User Stories
+# Create a Car Class from User Stories
 
 
 # I worked on this challenge [by myself, with: ].
@@ -27,4 +27,4 @@
 
 
 
-# 5. Reflection 
+# 5. Reflection
