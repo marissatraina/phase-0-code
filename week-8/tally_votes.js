@@ -93,7 +93,7 @@ var officers = {
 
 
 // __________________________________________
-// Driver Code:  Do not alter code below this line.
+// Test Code:  Do not alter code below this line.
 
 
 function assert(test, message, test_number) {
