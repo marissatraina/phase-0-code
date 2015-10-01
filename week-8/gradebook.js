@@ -56,7 +56,7 @@ var scores = [ [80, 70, 70, 100],
 
 
 // __________________________________________
-// Driver Code:  Do not alter code below this line.
+// Test Code:  Do not alter code below this line.
 
 
 function assert(test, message, test_number) {
