@@ -3,12 +3,12 @@
 # I worked on this challenge [by myself, with: ].
 
 
-# 1. Pseudocode
+# Pseudocode
 
 
 
 
-# 2. Initial Solution
+# Initial Solution
 
 class GlobalCohort
   #your code here
@@ -21,15 +21,10 @@ class LocalCohort
 end
 
 
-# 4. Refactored Solution
+# Refactored Solution
 
 
 
 
 
-
-# 3. DRIVER TESTS GO BELOW THIS LINE
-
-
-
-# 5. Reflection
+# Reflection
