@@ -4,6 +4,12 @@
 
 # I spent [#] hours on this challenge.
 
+# Pseudocode
+
+# Input:
+# Output:
+# Steps:
+
 class NameData
 
 end
